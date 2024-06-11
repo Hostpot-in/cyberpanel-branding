@@ -1,0 +1,1 @@
+This directory will store the last backup of your branding files.
